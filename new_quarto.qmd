@@ -1,0 +1,14 @@
+---
+title: "Challenge8"
+author: "Sreelekha Yaga"
+format:
+  html:
+    df-print: paged
+    css: "styles.css"
+    embed-resources: true
+    self-contained-math: true
+
+editor: visual
+---
+
+## Leo
